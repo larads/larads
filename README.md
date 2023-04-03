@@ -1,7 +1,7 @@
 ## Oiii! Eu sou a Mariana da Silva Lara 😊
 
 - 🔭 Hoje tenho Conhecimento em Html, css e Python
-- 🌱 Estudando C, C++
+- 🌱 Estudando JavaScript, Node.js , Vue2
 - 📫 Contate-me no email: mariana324dsl@gmail.com
 - 😄 Pronouns: ela/dela
 
