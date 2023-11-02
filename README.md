@@ -1,9 +1,9 @@
 ## Oiii! Eu sou a Mariana da Silva Lara 😊
 
+- 📚 Estudante de engenharia da computação
 - 🔭 Hoje tenho Conhecimento em Html, css e Python
 - 🌱 Estudando JavaScript, Node.js
 - 📫 Contate-me no email: mariana324dsl@gmail.com
-- 😄 Pronouns: ela/dela
 
 <div>
   <a href="https://github.com/larads">
