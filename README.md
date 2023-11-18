@@ -1,8 +1,8 @@
 ## Oiii! Eu sou a Mariana da Silva Lara 😊
 
 - 📚 Estudante de engenharia da computação
-- 🔭 Hoje tenho Conhecimento em Html, css e Python
-- 🌱 Estudando JavaScript, Node.js
+- 🔭 Hoje tenho Conhecimento em Python, JavaScript, Reactjs e React Native
+- 🌱 Estudando Java, Node.js
 - 📫 Contate-me no email: mariana324dsl@gmail.com
 
 <div>
