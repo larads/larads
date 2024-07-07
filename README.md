@@ -8,8 +8,8 @@
   <a href="https://github.com/larads">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larads&show_icons=true&theme=radical&utcOffset=-8&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larads&layout=compact&langs_count=16&theme=radical&utcOffset=-8"/>
-    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=larads&theme=radical&utcOffset=-8"/>
-    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=larads&theme=radical" />
+<!--     <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=larads&theme=radical&utcOffset=-8"/>
+    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=larads&theme=radical" /> -->
  </div>
 
  <div align="center" style="display: inline_block">
